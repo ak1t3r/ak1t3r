@@ -40,5 +40,5 @@ src="https://img.shields.io/twitch/status/akitaqq?logo=twitchsx&style=for-the-ba
 
 
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+ <img width="600" src="load.gif" alt="snake"/>
 </p>
