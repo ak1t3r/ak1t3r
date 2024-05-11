@@ -17,7 +17,7 @@
     
 </div>
 
-Hi ![](https://github.com/ak1t3r/ak1t3r/blob/main/sakura.png?raw=true height="50")My name is Anstasia
+Hi ![](https://github.com/ak1t3r/ak1t3r/blob/main/sakura%20(2).png?raw=true)My name is Anstasia
 ================================================================================================================================
 
 QA Engineer
