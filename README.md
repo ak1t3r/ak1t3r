@@ -17,7 +17,7 @@
     
 </div>
 
-Hi ![](https://psv4.userapi.com/c909328/u31790013/docs/d46/d9210af5b029/sakura.png?extra=yGDeN-Kv6OxIK01_bX__C9BTthjz2l2qRnwzsWfQ4ywWSWg5lzZTBsAB-dBbqxj5eOoyivmbL0MAMTW-oFvrDDPotLiPQcTEofFFh2lCdPV6vjYak7veZ790Fo2bhE8uknHhPYBtNgJMoWZsfFAHpQE)My name is Anstasia
+Hi ![](https://github.com/ak1t3r/ak1t3r/blob/main/sakura.png?raw=true)My name is Anstasia
 ================================================================================================================================
 
 QA Engineer
@@ -36,7 +36,7 @@ src="https://img.shields.io/twitch/status/akitaqq?logo=twitchsx&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/ak1t3r" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ak1t3r" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/akitaqq" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+
 
 
 <p align="center">
